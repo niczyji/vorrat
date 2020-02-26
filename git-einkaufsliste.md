@@ -23,7 +23,9 @@ Lebensmittelgruppen
   - [ ] Kiwi
   - [ ] Trauben
   - [ ] Orange
-  - [ ] Banane
+  - [ ] Birne
+  - [ ] Bananen
+  - [ ] Wassermelone
 - Getränke
   - [ ] Rum
   - [ ] Whiskey
