@@ -17,10 +17,13 @@ Lebensmittelgruppen
   - [ ] Rotkohl; Konserve
   - [ ] Erbsen; Konserve
   - [ ] Champinions; Konserve
+  - [ ] Zucchini
 - Obst
   - [ ] Apfel
   - [ ] Kiwi
   - [ ] Trauben
+  - [ ] Orange
+  - [ ] Banane
 - Getränke
   - [ ] Rum
   - [ ] Whiskey
