@@ -16,7 +16,14 @@ Lebensmittelgruppen
 - Gemüse Pilze
   - Rotkohl; Konserve
 - Obst
+  - [ ] Apfel
+  - [ ] Kiwi
+  - [ ] Trauben
 - Getränke
+  - [ ] Rum
+  - [ ] Whiskey
+  - [ ] Gin
+  - [ ] Vodka
 - Milch, Milch-produkte
 - Fleisch Wurst Fisch Eier
 - Fette Öle
