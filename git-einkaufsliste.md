@@ -1,0 +1,18 @@
+Erstelle eine gemeinsame Einkaufsliste für 2 Wochen.
+Fügt hinzu, was ihr wollt. Erstellt mit Hilfe von ‘git branch’ eure eigenen branch, um ihn später mit dem branch Master zusammenzuführen.
+
+
+Lebensmittelgruppen
+
+- Getreide-produkte, Brot, Kartoffeln
+  - Beispiel 1
+  - Vollkornbrot abgepackt
+  - Kartoffeln
+  - Knäckebrot
+- Gemüse Pilze
+  - Rotkohl; Konserve
+- Obst
+- Getränke
+- Milch, Milch-produkte
+- Fleisch Wurst Fisch Eier
+- Fette Öle
