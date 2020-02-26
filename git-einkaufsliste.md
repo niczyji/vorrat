@@ -14,7 +14,9 @@ Lebensmittelgruppen
   - [ ] Kartoffeln
   - [x] Knäckebrot
 - Gemüse Pilze
-  - Rotkohl; Konserve
+  - [ ] Rotkohl; Konserve
+  - [ ] Erbsen; Konserve
+  - [ ] Champinions; Konserve
 - Obst
 - Getränke
 - Milch, Milch-produkte
